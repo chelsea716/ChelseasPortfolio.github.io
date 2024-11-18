@@ -36,9 +36,9 @@ h2 {
 }
 
 .about-image {
-    max-width: 150px; /* Smaller image */
+    max-width: 150px;
     height: auto;
-    margin-right: 20px; /* Space between image and text */
+    margin-right: 20px;
 }
 
 .project {
