@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    background-color: red;
+    background-color: #CF0A0A;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -63,6 +63,6 @@ h2 {
 footer {
     text-align: center;
     padding: 10px;
-    background-color: red;
+    background-color: #CF0A0A;
     color: white;
 }
