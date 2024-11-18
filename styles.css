@@ -1,11 +1,8 @@
-{
-    background-color: #FFEEDD;
-}
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-color: bisque;
 }
 
 header {
